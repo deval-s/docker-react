@@ -14,7 +14,7 @@ deploy:
   provider: elasticbeanstalk
   region: 'ap-south-1'
   app: 'deval'
-  env: 'deval-env'
+  env: 'deval2-env'
   bucket_name: 'elasticbeanstalk-ap-south-1-233696430897'
   bucket_path: 'deval'
   on:
